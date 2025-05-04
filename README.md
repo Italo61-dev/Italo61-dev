@@ -1,19 +1,18 @@
 # 👨🏽‍💻 Ítalo Nascimento
 
 **`Desenvolvedor FullStack`**
-
-Sou natural de Brasília, tenho 25 anos e atualmente curso **Análise e Desenvolvimento de Sistemas**. Tenho uma grande paixão por tecnologia e desenvolvimento de software.
-Atualmente, atuo como **desenvolvedor no Exército Brasileiro**, com foco em tecnologias como **Java, Spring Boot e Angular**.
-Estou sempre em busca de aprender mais e construir soluções que tenham impacto real.
-
-
+<div style="text-align: justify">
+<p>Sou natural de Brasília, tenho 25 anos e atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma grande paixão por tecnologia e desenvolvimento de software.<br>
+Atualmente, atuo como <b>desenvolvedor no Exército Brasileiro</b>, com foco em tecnologias como <b>Java, Spring Boot e Angular</b>.<br>
+Estou sempre em busca de aprender mais e construir soluções que tenham impacto real.</p>
+</div>
 ### 🤖 Linguagens e Tecnologias
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -21,7 +20,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -29,7 +28,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -37,7 +36,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -45,7 +44,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Angular"
     title="Angular" 
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
@@ -53,7 +52,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -61,7 +60,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -69,7 +68,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -77,7 +76,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -85,7 +84,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Dart" 
     title="Dart"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" 
 />
@@ -93,10 +92,21 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
     align="left" 
     alt="Dart" 
     title="Dart"
-    width="30px" 
+    width="5%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
+<img
+    lign="left" 
+    alt="Docker" 
+    title="Docker"
+    width="5%" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+
+</div>
+
 
 <br/>
 <br/>
