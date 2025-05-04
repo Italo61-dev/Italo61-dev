@@ -8,7 +8,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
 </div>
 
 ## 🤖 Linguagens e Tecnologias
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
 <img 
     align="left" 
     alt="HTML"
