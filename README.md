@@ -6,7 +6,8 @@
 Atualmente, atuo como <b>desenvolvedor no Exército Brasileiro</b>, com foco em tecnologias como <b>Java, Spring Boot e Angular</b>.<br>
 Estou sempre em busca de aprender mais e construir soluções que tenham impacto real.</p>
 </div>
-### 🤖 Linguagens e Tecnologias
+
+## 🤖 Linguagens e Tecnologias
 <div style="display: flex; align-items: center; justify-content: space-between;">
 <img 
     align="left" 
@@ -111,7 +112,7 @@ Estou sempre em busca de aprender mais e construir soluções que tenham impacto
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
