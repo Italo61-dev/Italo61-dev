@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 <div style="text-align: justify">
-<p>Sou natural de Brasília, tenho 25 anos e atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma grande paixão por tecnologia e desenvolvimento de software.<br>
+<p>Sou natural de Brasília, tenho 26 anos e atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma grande paixão por tecnologia e desenvolvimento de software.<br>
 Atualmente, atuo como <b>desenvolvedor no Exército Brasileiro</b>, com foco em tecnologias como <b>Java, Spring Boot e Angular</b>.<br>
 Estou sempre em busca de aprender mais e construir soluções que tenham impacto real.</p>
 </div>
