@@ -23,7 +23,7 @@ Atualmente atuo como **desenvolvedor de software no Exército Brasileiro**, part
 
 | Categoria | Tecnologias |
 |---|---|
-| **Backend** | Java (17+), Spring Boot (Security, Data JPA), APIs RESTful, Python |
+| **Backend** | Java (8+), Spring Boot (Security, Data JPA), APIs RESTful, Python |
 | **Frontend** | Angular, TypeScript, JavaScript, HTML5, CSS3 |
 | **Bancos de Dados** | Oracle Database, PostgreSQL, SQLite / Turso Cloud, Liquibase |
 | **DevOps & Cloud** | Kubernetes, Docker, Rancher, GitLab CI/CD, Git |
