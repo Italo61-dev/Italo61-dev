@@ -10,7 +10,7 @@
 
 ## 👨🏽‍💻 Sobre Mim
 
-Atualmente atuo como **desenvolvedor de software no Exército Brasileiro**, participando do desenvolvimento, sustentação e modernização de **sistemas corporativos de missão crítica**. Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
+Atualmente atuo como **desenvolvedor de software no Exército Brasileiro**, participando do desenvolvimento, sustentação e modernização de **sistemas corporativos de missão crítica**. Pós-graduando em **Engenharia de Software com Métodos Ágeis e DevOps**.
 
 * ⚙️ **Desenvolvimento Corporativo:** Construção de APIs e microsserviços resilientes com **Java e Spring Boot**, integrados a bancos de dados relacionais de alta volumetria (**Oracle Database** e **PostgreSQL**), além de interfaces dinâmicas com **Angular**.
 * 🛡️ **Qualidade e Segurança de Código:** Aplicação de boas práticas de DevSecOps, análise estática de código com **SonarQube** e varredura rigorosa de vulnerabilidades de segurança com **Micro Focus Fortify**.
