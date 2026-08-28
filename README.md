@@ -1,115 +1,43 @@
-# 👨🏽‍💻 Ítalo Nascimento
+# Olá, eu sou o Ítalo Nascimento 👋
 
-**`Desenvolvedor FullStack`**
-<div style="text-align: justify">
-<p>Sou natural de Brasília, tenho 26 anos e atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma grande paixão por tecnologia e desenvolvimento de software.<br>
-Atualmente, atuo como <b>desenvolvedor no Exército Brasileiro</b>, com foco em tecnologias como <b>Java, Spring Boot e Angular</b>.<br>
-Estou sempre em busca de aprender mais e construir soluções que tenham impacto real.</p>
+### 🚀 Software Engineer | Java • Spring Boot • Angular • DevOps & Cloud
+📍 **Brasília, DF - Brasil**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-nascimento-318019284)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italosousa42541@gmail.com)
+
+---
+
+## 👨🏽‍💻 Sobre Mim
+
+Atualmente atuo como **desenvolvedor de software no Exército Brasileiro**, participando do desenvolvimento, sustentação e modernização de **sistemas corporativos de missão crítica**. Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+* ⚙️ **Desenvolvimento Corporativo:** Construção de APIs e microsserviços resilientes com **Java e Spring Boot**, integrados a bancos de dados relacionais de alta volumetria (**Oracle Database** e **PostgreSQL**), além de interfaces dinâmicas com **Angular**.
+* 🛡️ **Qualidade e Segurança de Código:** Aplicação de boas práticas de DevSecOps, análise estática de código com **SonarQube** e varredura rigorosa de vulnerabilidades de segurança com **Micro Focus Fortify**.
+* 🚢 **DevOps & Infraestrutura:** Implantação e gerenciamento de aplicações conteinerizadas com **Docker**, orquestração de clusters via **Kubernetes (K8s)** e **Rancher**, e pipelines automatizados via **GitLab CI/CD**.
+* 📊 **Observabilidade & Performance:** Monitoramento e diagnóstico de desempenho em produção (APM) com **Glowroot**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+|---|---|
+| **Backend** | Java (17+), Spring Boot (Security, Data JPA), APIs RESTful, Python |
+| **Frontend** | Angular, TypeScript, JavaScript, HTML5, CSS3 |
+| **Bancos de Dados** | Oracle Database, PostgreSQL, SQLite / Turso Cloud, Liquibase |
+| **DevOps & Cloud** | Kubernetes, Docker, Rancher, GitLab CI/CD, Git |
+| **Segurança & Monitoramento** | SonarQube, Fortify (SAST), Glowroot (APM) |
+
+---
+
+## 📌 Projetos em Destaque
+
+* **[Nexo-Finance](https://github.com/Italo61-dev/Nexo-Finance)**: Aplicação financeira pessoal com arquitetura limpa em **Java 17, Spring Boot 3, Spring Security, Liquibase, PostgreSQL e Docker**. *(Frontend integrado em **Angular** em desenvolvimento).*
+* **[Alerta-Voos-Telegram](https://github.com/Italo61-dev/Alerta-Voos-Telegram)**: Bot inteligente em **Python** para monitoramento contínuo de passagens no Google Flights, banco em nuvem **Turso (libSQL)** e disparo de notificações em tempo real.
+
+---
+
+<div align="center">
+  <sub>Vamos conversar? Sinta-se à vontade para me contatar pelo <a href="https://www.linkedin.com/in/italo-nascimento-318019284">LinkedIn</a> ou via <a href="mailto:italosousa42541@gmail.com">e-mail</a>.</sub>
 </div>
-
-## 🤖 Linguagens e Tecnologias
-<div>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Dart" 
-    title="Dart"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Dart" 
-    title="Dart"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-<img
-    lign="left" 
-    alt="Docker" 
-    title="Docker"
-    width="5%" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-/>
-
-</div>
-
-
-<br/>
-<br/>
-
-
