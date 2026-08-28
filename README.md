@@ -39,5 +39,5 @@ Atualmente atuo como **desenvolvedor de software no Exército Brasileiro**, part
 ---
 
 <div align="center">
-  <sub>Vamos conversar? Sinta-se à vontade para me contatar pelo <a href="https://www.linkedin.com/in/italo-nascimento-318019284">LinkedIn</a> ou via <a href="mailto:italosousa42541@gmail.com">e-mail</a>.</sub>
+  <sub>Vamos conversar? Sinta-se à vontade para me contatar pelo <a href="https://www.linkedin.com/in/italo-nascimento-dev">LinkedIn</a> ou via <a href="mailto:italons21@gmail.com">e-mail</a>.</sub>
 </div>
