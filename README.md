@@ -33,7 +33,7 @@ Atualmente atuo como **desenvolvedor de software no Exército Brasileiro**, part
 
 ## 📌 Projetos em Destaque
 
-* **[Nexo-Finance](https://github.com/Italo61-dev/Nexo-Finance)**: Aplicação financeira pessoal com arquitetura limpa em **Java 17, Spring Boot 3, Spring Security, Liquibase, PostgreSQL e Docker**. *(Frontend integrado em **Angular** em desenvolvimento).*
+* **[Nexo-Finance](https://github.com/Italo61-dev/Nexo-Finance)**: Aplicação financeira pessoal com arquitetura limpa em **Java 17, Spring Boot 3, Spring Security, Liquibase, PostgreSQL e Docker**. *(Em desenvolvimento).*
 * **[Alerta-Voos-Telegram](https://github.com/Italo61-dev/Alerta-Voos-Telegram)**: Bot inteligente em **Python** para monitoramento contínuo de passagens no Google Flights, banco em nuvem **Turso (libSQL)** e disparo de notificações em tempo real.
 
 ---
